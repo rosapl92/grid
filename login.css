@@ -25,6 +25,7 @@
     background-color: skyblue;
     color: blue;
     text-decoration: none;
-    padding: .5em .5em;
-    border: #ef8eef;
+    padding: .5em 1em;
+    border: #ef8eef solid 1px;
+    margin-top: 1em;
 }

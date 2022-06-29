@@ -2,7 +2,7 @@
     display: flex;
     margin: 0;
     padding: .5em;
-    background-color: #74c4c4;
+    background-color: fuchsia;
     list-style-type: none;
     border-radius: .2em;
 }
@@ -17,7 +17,7 @@
     text-decoration: none;
     border: blue;
 }
-.site-nav > li >li {
+.site-nav > li + li {
     margin-left: 1.5em;
 }
 .site-nav > .nav-right {
